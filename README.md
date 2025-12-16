@@ -18,3 +18,7 @@ NOTES:
 1)Tested on STM32F401CCU6.
 2)Works reliably at -O0 compiler optimization level.
 3)Bitfield layout is compiler-dependent, it is verified for STM32CubeIDE/GCC.
+
+
+For Reference:
+For the usage of driver go through the main.c, it is an example that demonstartes the blinking of internal LED (PC13) present on the microcontroller.
